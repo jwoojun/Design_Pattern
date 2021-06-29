@@ -1,27 +1,25 @@
-# Getting Started
+# Design Pattern
 
-### Reference Documentation
+## 1. Strategy Pattern
 
-For further reference, please consider the following sections:
+## 2. Adapter Pattern
 
-* [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.2/gradle-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.5.2/gradle-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.2/reference/htmlsingle/#boot-features-developing-web-applications)
-* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.5.2/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+## 3. Template Method Pattern
 
-### Guides
+## 4. Factory Method Pattern
 
-The following guides illustrate how to use some features concretely:
+## 5. Singleton Pattern
+- 객체: 속성과 기능을 갖춘 것
+- 클래스: 속성과 기능을 정의한 것
+- 인스턴스: 속성과 기능을 가진 것 중 실제하는 것
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+## 6. Prototype Pattern
 
-### Additional Links
+## 7. Builder Pattern
 
-These additional references should also help you:
+## 8. Abstract Factory Pattern
 
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
+## 9. Bridge Pattern
+
+## 10. Composite Pattern
 
